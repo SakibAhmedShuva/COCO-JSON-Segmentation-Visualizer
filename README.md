@@ -1,6 +1,6 @@
 # COCO JSON Segmentation Visualizer
 
-A simple and efficient tool for visualizing COCO format annotations including bounding boxes, segmentation masks, and category labels using Jupyter Notebook.
+A simple and efficient tool for visualizing COCO format annotations from Label Studio or other platforms including bounding boxes, segmentation masks, and category labels using Jupyter Notebook.
 
 ## Overview
 
